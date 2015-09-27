@@ -1,0 +1,10 @@
+body {background-color: yellow;}
+h1 {text-align: center;
+color: blue;
+font-style: italic;}
+h2 {border-top: 20 px solid black;
+border-bottom: 30 px dashed red;
+border-right: 10 px dashed black;
+border-left: 20 px solid grey;}
+p {font weight: normal;
+color: red;}
